@@ -25,4 +25,5 @@ The instructions to follow are provided in the markdown document:
 #### [directions.md](directions.md) - Explore the Directions API here, then complete the activity at the end for marks
 Follow these instructions to explore how service based requests occur and how to interpret their JSON responses. Once you understand the URL request and JSON response,  complete the activity by modifying the mydirections.md markdown document with your novel Google Directions API URL. 
 
+Link to the md: https://github.com/katays/pl1/blob/main/services/mydirections.md
 Revision 2
